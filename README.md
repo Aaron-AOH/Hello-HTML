@@ -31,7 +31,7 @@ Una vez dentro de la carpeta donde se aloja el index.HTML, pondremos el siguinet
 ***CREDITOS***
 
 
-*By: Aaron ojeda*//
+*By: Aaron ojeda*
 
 
 *Contribuidor: Axel Garcia*
